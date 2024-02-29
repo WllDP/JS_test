@@ -1,0 +1,5 @@
+informa o que muda no arquivo
+adicionanco informações
+todo registro é incrementado no arquivo original
+
+repositório em núvem
